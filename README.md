@@ -2,7 +2,7 @@
 
 ### Introducción
 
-En el mundo moderno de la infraestructura TI, la elección entre **contenedores** y **máquinas virtuales (VMs)** es crucial para el diseño de arquitecturas eficientes, escalables y seguras. Esta presentación explora a fondo las diferencias, beneficios, casos de uso y desafíos de ambas tecnologías, con énfasis en **Docker**, **Kubernetes** y su papel en arquitecturas de microservicios.
+En el mundo moderno de la infraestructura TI, la elección entre **contenedores** y **máquinas virtuales (VMs)** es crucial para el diseño de arquitecturas eficientes, escalables y seguras. Este documento explora a fondo las diferencias, beneficios, casos de uso y desafíos de ambas tecnologías, con énfasis en **Docker**, **Kubernetes** y su papel en arquitecturas de microservicios.
 
 ---
 
