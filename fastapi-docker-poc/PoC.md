@@ -91,6 +91,8 @@ services:
 docker-compose up --build
 ```
 
+Accede a http://localhost:8000/docs
+
 Accede a la API en: http://localhost:8000/api/hello
 
 ---
