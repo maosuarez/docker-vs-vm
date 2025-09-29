@@ -281,4 +281,6 @@ services:
 
 Despliegue comparativo de una API REST en Docker vs una máquina virtual Ubuntu Server. Se evalúan tiempos, recursos y facilidad de configuración.
 
-[Seguir Viendo](/fastapi-docker-poc/PoC.md)
+[Prueba de Docker](/fastapi-docker-poc/PoC.md)
+[Prueba de VM](/fastapi-docker-poc/PoC_vm.md)
+
